@@ -130,3 +130,6 @@ dmypy.json
 
 # Pytorch Lightning Logs
 lightning_logs
+
+# Fashion MNIST
+FashionMNIST
